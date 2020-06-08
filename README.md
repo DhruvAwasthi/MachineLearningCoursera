@@ -1,4 +1,8 @@
-**STANFORD - MACHINE LEARNING**
+**STANFORD - MACHINE LEARNING by Andrew NG on Coursera**
+
+I want to present my heartful gratitude to Andrew Ng for this course. I'm so glad that I took this course and learned a lot from this. I will always be thankful to Andrew Ng to teach me when I was taking steps toward my dream. Thank you so much Andrew.
+
+
 
 This repository shows my three months journey, and contains the solution of popular Machine Learning course on Coursera by Stanford University taught by instructor Andrew Ng, CEO/Founder Landing AI; Co-founder, Coursera; Adjunct Professor, Stanford University; formerly Chief Scientist,Baidu and founding lead of Google Brain.
 
